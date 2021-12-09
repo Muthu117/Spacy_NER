@@ -1,1 +1,1 @@
-# scapy_NER
+# spacy_NER
